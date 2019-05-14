@@ -1,1 +1,2 @@
-# car_prices-KNN
+# Predicting Car Prices using k-Nearest Neighbors method
+
